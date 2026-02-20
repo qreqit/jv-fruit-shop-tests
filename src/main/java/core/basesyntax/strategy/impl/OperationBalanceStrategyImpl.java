@@ -12,5 +12,4 @@ public class OperationBalanceStrategyImpl implements OperationStrategy {
                 fruitTransaction.getQuantity()
         );
     }
-
 }
