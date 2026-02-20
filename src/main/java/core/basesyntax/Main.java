@@ -23,6 +23,7 @@ import java.util.Map;
 public class Main {
     private static final String FILE = "input.csv";
     private static final String OUTPUTFILE = "finalReport.csv";
+
     public static void main(String[] args) {
 
         FileReader fileReader = new FileReaderImpl();
